@@ -1,0 +1,9 @@
+{
+  "name": "islandwave",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest"
+  }
+}
